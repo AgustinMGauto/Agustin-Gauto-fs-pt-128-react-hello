@@ -9,3 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.imgHome {
+    background-image:linear-gradient(rgba(161, 159, 159, 0.5), rgba(141, 141, 141, 0.5)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8nLRZqhHcqUeHavd7MGxkTvEO07i26qIxEQ&s);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.card{
+    width: 18rem;
+}
