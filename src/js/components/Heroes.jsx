@@ -6,9 +6,9 @@ const Heroes = () => {
 	return (
 		<div className="p-5 mb-4 bg-light rounded-3 imgHome">
 			<div className="container-fluid py-5">
-				<h1 className="display-5 fw-bold">¡Bienvenido a mi Sitio de Venta de Skates!</h1>
-				<p className="col-md-8 fs-4">Tenemos todo tipo de marcas</p>
-				<button className="btn btn-primary btn-lg" type="button">Consigue aqui la tuya.</button>
+				<h1 className="display-5 fw-bold text-light">¡Bienvenido a mi Sitio de Venta de Skates!</h1>
+				<p className="col-md-8 fs-4 text-light">Tenemos todo tipo de marcas</p>
+				<button className="btn btn-light btn-lg" type="button">Consigue aqui la tuya.</button>
 			</div>
 		</div>
 	);
