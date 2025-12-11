@@ -1,6 +1,3 @@
-import React from "react";
-
-
 const skateBoard = [{id:1,image:"https://blog.bextremeboards.com/wp-content/uploads/2017/05/tipos-skates-1.jpg",nombre:"Agus"}]
 
 
